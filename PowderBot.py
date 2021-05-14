@@ -1,5 +1,5 @@
 #########################################################################################################################
-# This program when ran gathers snowfall amount forecast information for a location you choose and averages it for output
+# This script when ran gathers snowfall amount forecast information for a location you choose and averages it for output
 #########################################################################################################################
 
 import requests
